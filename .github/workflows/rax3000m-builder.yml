@@ -4,7 +4,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
 
-# 定时触发编译
+# 定时触发编译1
   schedule:
     - cron: 25 18 * * 6
 
